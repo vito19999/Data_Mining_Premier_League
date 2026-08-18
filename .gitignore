@@ -1,0 +1,13 @@
+# Ignora i dati (Non faranno MAI crashare GitHub)
+data/
+*.csv
+*.parquet
+
+# Ignora file di sistema e cache di Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignora eventuali ambienti virtuali locali
+.venv/
+env/
