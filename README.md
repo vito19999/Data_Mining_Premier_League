@@ -5,7 +5,7 @@ Progetto end-to-end di Data Mining sulla Premier League 2020-21. Include pipelin
 
 #  Data Mining & Machine Learning: English Premier League 2020-21
 
-🇮🇹 **Versione Italiana**
+ **Versione Italiana**
 
 Questo progetto esplora l'uso del Data Mining e del Machine Learning per profilare gli esiti delle partite di Premier League (Vittoria, Pareggio, Sconfitta) analizzando i pattern statistici generati in campo. Partendo da un dataset grezzo (Bronze Layer) di ~607.000 eventi, il progetto sviluppa una pipeline end-to-end strutturata in 3 Jupyter Notebook.
 
@@ -31,7 +31,7 @@ Questo progetto esplora l'uso del Data Mining e del Machine Learning per profila
 
 ---
 
-🇬🇧 **English Version**
+ **English Version**
 
 This project explores the use of Data Mining and Machine Learning to profile the outcomes of Premier League matches (Win, Draw, Loss) by analyzing on-pitch statistical patterns. Starting from a raw dataset (Bronze Layer) of ~607,000 events, the project features an end-to-end pipeline divided into 3 Jupyter Notebooks.
 
