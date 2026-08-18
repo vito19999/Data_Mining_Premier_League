@@ -3,7 +3,7 @@ Progetto end-to-end di Data Mining sulla Premier League 2020-21. Include pipelin
 
 
 
-#  Data Mining & Machine Learning: English Premier League 2020-21
+#  Data Mining & Machine Learning: Premier League 2020-21
 
  **Versione Italiana**
 
