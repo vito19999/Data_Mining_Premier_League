@@ -1,0 +1,12 @@
+pandas==2.2.2
+scikit-learn==1.6.1
+matplotlib==3.10.0
+pyarrow==18.1.0
+numpy==2.0.2
+seaborn==0.13.2
+shap==0.51.0
+gdown>=5.1.0
+nbstripout
+jupyter
+nbconvert
+ipykernel
